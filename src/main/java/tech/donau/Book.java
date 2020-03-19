@@ -1,6 +1,6 @@
 package tech.donau;
 
-import io.vertx.axle.sqlclient.Row;
+import io.vertx.mutiny.sqlclient.Row;
 
 public class Book {
     public String title;
